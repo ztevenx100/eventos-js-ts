@@ -4,15 +4,15 @@ Desafios en JavaScript
 
 > [!IMPORTANT]
 > Iniciativa de @midudev
-> Repositorio con los retos del AdventJs 2021
+> Repositorio con los retos del AdventJs 2024
 > Pagina de los retos: [AdventJs](https://adventjs.dev/es)
 
 
 ## Tabla de ejercicios
 | Dia     | Nombre | Dificultad | Ejercicio en codigo |
 | ---     | ---    | ---  | ---  |
-| Reto #01: | **???** | 🟢 | [Spoiler #01](https://github.com/ztevenx100/2023-AdventJs/blob/main/Day%2001/Reto01.js) |
-| Reto #02: | **???** | 🟢 | [Spoiler #02]() |
+| Reto #01: | **Reto #1: ¡Primer regalo repetido!** | 🟢 | [Spoiler #01](https://github.com/ztevenx100/eventos-js-ts/tree/master/js-adventjs-2024/reto-01/main.js) |
+| Reto #02: | **Reto #2: 🖼️ Enmarcando nombres** | 🟢 | [Spoiler #02](https://github.com/ztevenx100/eventos-js-ts/tree/master/js-adventjs-2024/reto-02/main.js) |
 | Reto #03: | **???** | 🟢 | [Spoiler #03]() |
 | Reto #04: | **???** | 🟡 | [Spoiler #04]() |
 | Reto #05: | **???** | 🟡 | [Spoiler #05]() |
