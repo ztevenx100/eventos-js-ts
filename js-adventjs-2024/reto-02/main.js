@@ -16,13 +16,11 @@
   * madeval     *
   * educalvolpz *
   ***************
-
   createFrame(['midu'])
   /* Resultado esperado:
   ********
   * midu *
   ********
-
   createFrame(['a', 'bb', 'ccc'])
   /* Resultado esperado:
   *******

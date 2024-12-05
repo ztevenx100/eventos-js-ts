@@ -13,7 +13,7 @@ Desafios en JavaScript
 | ---     | ---    | ---  | ---  |
 | Reto #01: | **Reto #1: ¡Primer regalo repetido!** | 🟢 | [Spoiler #01](https://github.com/ztevenx100/eventos-js-ts/tree/master/js-adventjs-2024/reto-01/main.js) |
 | Reto #02: | **Reto #2: 🖼️ Enmarcando nombres** | 🟢 | [Spoiler #02](https://github.com/ztevenx100/eventos-js-ts/tree/master/js-adventjs-2024/reto-02/main.js) |
-| Reto #03: | **???** | 🟢 | [Spoiler #03]() |
+| Reto #03: | **Reto #3: 🏗️ Organizando el inventario** | 🟢 | [Spoiler #03](https://github.com/ztevenx100/eventos-js-ts/tree/master/js-adventjs-2024/reto-03/main.js) |
 | Reto #04: | **???** | 🟡 | [Spoiler #04]() |
 | Reto #05: | **???** | 🟡 | [Spoiler #05]() |
 | Reto #06: | **???** | 🟢 | [Spoiler #06]() |
