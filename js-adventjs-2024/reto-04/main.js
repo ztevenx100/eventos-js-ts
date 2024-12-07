@@ -81,20 +81,27 @@ function createXmasTree(height, ornament) {
   return tree.join('\n');
 }
 
-if (!Number.isInteger(height) || height < 1 || height > 100) {
-  throw new Error('La altura debe ser un número entero positivo entre 1 y 100.');
+function createXmasTree(height, ornament) {
+  if (!Number.isInteger(height) || height < 1 || height > 100) {
+    throw new Error('La altura debe ser un número entero positivo entre 1 y 100.');
+  }
+
+  const trunk = '_'.repeat(height - 1) + '#' + '_'.repeat(height - 1);
+
+  return [
+    ...Array.from({ length: height }, (_, i) => 
+      '_'.repeat(height - i - 1) + ornament.repeat(2 * i + 1) + '_'.repeat(height - i - 1)
+    ),
+    trunk,
+    trunk
+  ].join('\n');
 }
 
-const trunk = '_'.repeat(height - 1) + '#' + '_'.repeat(height - 1);
-
-return [
-  ...Array.from({ length: height }, (_, i) => 
-    '_'.repeat(height - i - 1) + ornament.repeat(2 * i + 1) + '_'.repeat(height - i - 1)
-  ),
-  trunk,
-  trunk
-].join('\n');
-
+function createXmasTree(height, ornament) {
+  let r="",v,o ="_".repeat(height-1),i=1,j,p=o+"#"+o;
+  for(j =i;i<= height;j+=2)v="_".repeat(height-i++),r+=v+ornament.repeat(j)+v+"\n"
+  return r+p+"\n"+p
+}
   
 // Ejemplo de uso
 const tree = createXmasTree(5, '*');

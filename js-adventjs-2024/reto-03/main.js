@@ -86,3 +86,24 @@ function organizeInventory(inventory) {
     return acc;
   }, {});
 }
+
+function organizeInventory(inventory) {
+  if (!Array.isArray(inventory) || inventory.length === 0) return {};
+
+  return inventory.reduce((acc, { name, quantity, category }) => {
+    const categoryItems = acc[category] || (acc[category] = {});
+    categoryItems[name] = (categoryItems[name] || 0) + quantity;
+    return acc;
+  }, {});
+}
+
+function organizeInventory(inventory) {
+  const dic = {}
+
+  for (const { category, name, quantity } of inventory) {
+    dic[category] ??= {}
+    dic[category][name] = (dic[category][name] || 0) + quantity;
+  }
+
+  return dic
+}

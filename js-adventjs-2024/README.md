@@ -14,8 +14,8 @@ Desafios en JavaScript
 | Reto #01: | **Reto #1: ¡Primer regalo repetido!** | 🟢 | [Spoiler #01](https://github.com/ztevenx100/eventos-js-ts/tree/master/js-adventjs-2024/reto-01/main.js) |
 | Reto #02: | **Reto #2: 🖼️ Enmarcando nombres** | 🟢 | [Spoiler #02](https://github.com/ztevenx100/eventos-js-ts/tree/master/js-adventjs-2024/reto-02/main.js) |
 | Reto #03: | **Reto #3: 🏗️ Organizando el inventario** | 🟢 | [Spoiler #03](https://github.com/ztevenx100/eventos-js-ts/tree/master/js-adventjs-2024/reto-03/main.js) |
-| Reto #04: | **???** | 🟡 | [Spoiler #04]() |
-| Reto #05: | **???** | 🟡 | [Spoiler #05]() |
+| Reto #04: | **Reto #4: 🎄 Decorando el árbol de Navidad** | 🟡 | [Spoiler #04](https://github.com/ztevenx100/eventos-js-ts/tree/master/js-adventjs-2024/reto-04/main.js) |
+| Reto #05: | **Reto #5: 👞 Emparejando botas** | 🟡 | [Spoiler #05](https://github.com/ztevenx100/eventos-js-ts/tree/master/js-adventjs-2024/reto-05/main.js) |
 | Reto #06: | **???** | 🟢 | [Spoiler #06]() |
 | Reto #07: | **???** | 🟢 | [Spoiler #07]() |
 | Reto #08: | **???** | 🟡 | [Spoiler #08]() |
