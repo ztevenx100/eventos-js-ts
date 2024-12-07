@@ -16,7 +16,7 @@ Desafios en JavaScript
 | Reto #03: | **Reto #3: 🏗️ Organizando el inventario** | 🟢 | [Spoiler #03](https://github.com/ztevenx100/eventos-js-ts/tree/master/js-adventjs-2024/reto-03/main.js) |
 | Reto #04: | **Reto #4: 🎄 Decorando el árbol de Navidad** | 🟡 | [Spoiler #04](https://github.com/ztevenx100/eventos-js-ts/tree/master/js-adventjs-2024/reto-04/main.js) |
 | Reto #05: | **Reto #5: 👞 Emparejando botas** | 🟡 | [Spoiler #05](https://github.com/ztevenx100/eventos-js-ts/tree/master/js-adventjs-2024/reto-05/main.js) |
-| Reto #06: | **???** | 🟢 | [Spoiler #06]() |
+| Reto #06: | **Reto #6: 📦 ¿Regalo dentro de la caja?** | 🟢 | [Spoiler #06](https://github.com/ztevenx100/eventos-js-ts/tree/master/js-adventjs-2024/reto-06/main.js) |
 | Reto #07: | **???** | 🟢 | [Spoiler #07]() |
 | Reto #08: | **???** | 🟡 | [Spoiler #08]() |
 | Reto #09: | **???** | 🟢 | [Spoiler #09]() |
