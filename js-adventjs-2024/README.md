@@ -15,12 +15,12 @@ Desafios en JavaScript
 | Reto #02: | **Reto #2: 🖼️ Enmarcando nombres** | 🟢 | [Spoiler #02](https://github.com/ztevenx100/eventos-js-ts/tree/master/js-adventjs-2024/reto-02/main.js) |
 | Reto #03: | **Reto #3: 🏗️ Organizando el inventario** | 🟢 | [Spoiler #03](https://github.com/ztevenx100/eventos-js-ts/tree/master/js-adventjs-2024/reto-03/main.js) |
 | Reto #04: | **Reto #4: 🎄 Decorando el árbol de Navidad** | 🟡 | [Spoiler #04](https://github.com/ztevenx100/eventos-js-ts/tree/master/js-adventjs-2024/reto-04/main.js) |
-| Reto #05: | **Reto #5: 👞 Emparejando botas** | 🟡 | [Spoiler #05](https://github.com/ztevenx100/eventos-js-ts/tree/master/js-adventjs-2024/reto-05/main.js) |
-| Reto #06: | **Reto #6: 📦 ¿Regalo dentro de la caja?** | 🟢 | [Spoiler #06](https://github.com/ztevenx100/eventos-js-ts/tree/master/js-adventjs-2024/reto-06/main.js) |
-| Reto #07: | **Reto #7: 👹 El ataque del Grinch** | 🟢 | [Spoiler #07](https://github.com/ztevenx100/eventos-js-ts/tree/master/js-adventjs-2024/reto-07/main.js) |
-| Reto #08: | **Reto #8: 🦌 La carrera de renos** | 🟡 | [Spoiler #08](https://github.com/ztevenx100/eventos-js-ts/tree/master/js-adventjs-2024/reto-08/main.js) |
-| Reto #09: | **???** | 🟢 | [Spoiler #09]() |
-| Reto #10: | **???** | 🟢 | [Spoiler #10]() |
+| Reto #05: | **Reto #5: 👞 Emparejando botas** | 🟢 | [Spoiler #05](https://github.com/ztevenx100/eventos-js-ts/tree/master/js-adventjs-2024/reto-05/main.js) |
+| Reto #06: | **Reto #6: 📦 ¿Regalo dentro de la caja?** | 🟡 | [Spoiler #06](https://github.com/ztevenx100/eventos-js-ts/tree/master/js-adventjs-2024/reto-06/main.js) |
+| Reto #07: | **Reto #7: 👹 El ataque del Grinch** | 🟡 | [Spoiler #07](https://github.com/ztevenx100/eventos-js-ts/tree/master/js-adventjs-2024/reto-07/main.js) |
+| Reto #08: | **Reto #8: 🦌 La carrera de renos** | 🟢 | [Spoiler #08](https://github.com/ztevenx100/eventos-js-ts/tree/master/js-adventjs-2024/reto-08/main.js) |
+| Reto #09: | **Reto #9: 🚂 El tren mágico** | 🟡 | [Spoiler #09](https://github.com/ztevenx100/eventos-js-ts/tree/master/js-adventjs-2024/reto-09/main.js) |
+| Reto #10: | **???** | 🟡 | [Spoiler #10]() |
 | Reto #11: | **???** | 🟡 | [Spoiler #11]() |
 | Reto #12: | **???** | 🟡 | [Spoiler #12]() |
 | Reto #13: | **???** | 🟢 | [Spoiler #13]() |
