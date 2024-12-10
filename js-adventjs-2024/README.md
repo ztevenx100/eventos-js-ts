@@ -18,7 +18,7 @@ Desafios en JavaScript
 | Reto #05: | **Reto #5: 👞 Emparejando botas** | 🟡 | [Spoiler #05](https://github.com/ztevenx100/eventos-js-ts/tree/master/js-adventjs-2024/reto-05/main.js) |
 | Reto #06: | **Reto #6: 📦 ¿Regalo dentro de la caja?** | 🟢 | [Spoiler #06](https://github.com/ztevenx100/eventos-js-ts/tree/master/js-adventjs-2024/reto-06/main.js) |
 | Reto #07: | **Reto #7: 👹 El ataque del Grinch** | 🟢 | [Spoiler #07](https://github.com/ztevenx100/eventos-js-ts/tree/master/js-adventjs-2024/reto-07/main.js) |
-| Reto #08: | **???** | 🟡 | [Spoiler #08]() |
+| Reto #08: | **Reto #8: 🦌 La carrera de renos** | 🟡 | [Spoiler #08](https://github.com/ztevenx100/eventos-js-ts/tree/master/js-adventjs-2024/reto-08/main.js) |
 | Reto #09: | **???** | 🟢 | [Spoiler #09]() |
 | Reto #10: | **???** | 🟢 | [Spoiler #10]() |
 | Reto #11: | **???** | 🟡 | [Spoiler #11]() |
