@@ -17,7 +17,7 @@ Desafios en JavaScript
 | Reto #04: | **Reto #4: 🎄 Decorando el árbol de Navidad** | 🟡 | [Spoiler #04](https://github.com/ztevenx100/eventos-js-ts/tree/master/js-adventjs-2024/reto-04/main.js) |
 | Reto #05: | **Reto #5: 👞 Emparejando botas** | 🟡 | [Spoiler #05](https://github.com/ztevenx100/eventos-js-ts/tree/master/js-adventjs-2024/reto-05/main.js) |
 | Reto #06: | **Reto #6: 📦 ¿Regalo dentro de la caja?** | 🟢 | [Spoiler #06](https://github.com/ztevenx100/eventos-js-ts/tree/master/js-adventjs-2024/reto-06/main.js) |
-| Reto #07: | **???** | 🟢 | [Spoiler #07]() |
+| Reto #07: | **Reto #7: 👹 El ataque del Grinch** | 🟢 | [Spoiler #07](https://github.com/ztevenx100/eventos-js-ts/tree/master/js-adventjs-2024/reto-07/main.js) |
 | Reto #08: | **???** | 🟡 | [Spoiler #08]() |
 | Reto #09: | **???** | 🟢 | [Spoiler #09]() |
 | Reto #10: | **???** | 🟢 | [Spoiler #10]() |
