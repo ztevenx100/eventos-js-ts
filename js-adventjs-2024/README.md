@@ -21,7 +21,7 @@ Desafios en JavaScript
 | Reto #08: | **Reto #8: 🦌 La carrera de renos** | 🟢 | [Spoiler #08](https://github.com/ztevenx100/eventos-js-ts/tree/master/js-adventjs-2024/reto-08/main.js) |
 | Reto #09: | **Reto #9: 🚂 El tren mágico** | 🟡 | [Spoiler #09](https://github.com/ztevenx100/eventos-js-ts/tree/master/js-adventjs-2024/reto-09/main.js) |
 | Reto #10: | **Reto #10: 👩‍💻 El ensamblador élfico** | 🟡 | [Spoiler #10](https://github.com/ztevenx100/eventos-js-ts/tree/master/js-adventjs-2024/reto-10/main.js) |
-| Reto #11: | **???** | 🟡 | [Spoiler #11]() |
+| Reto #11: | **Reto #11: 🏴‍☠️ Nombres de archivos codificados** | 🟡 | [Spoiler #11](https://github.com/ztevenx100/eventos-js-ts/tree/master/js-adventjs-2024/reto-12/main.js) |
 | Reto #12: | **???** | 🟡 | [Spoiler #12]() |
 | Reto #13: | **???** | 🟢 | [Spoiler #13]() |
 | Reto #14: | **???** | 🟡 | [Spoiler #14]() |
