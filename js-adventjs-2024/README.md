@@ -24,7 +24,7 @@ Desafios en JavaScript
 | Reto #11: | **Reto #11: 🏴‍☠️ Nombres de archivos codificados** | 🟢 | [Spoiler #11](https://github.com/ztevenx100/eventos-js-ts/tree/master/js-adventjs-2024/reto-11/main.js) |
 | Reto #12: | **Reto #12: 💵 ¿Cuánto cuesta el árbol?** | 🟢 | [Spoiler #12](https://github.com/ztevenx100/eventos-js-ts/tree/master/js-adventjs-2024/reto-12/main.js) |
 | Reto #13: | **Reto #13: 🤖 ¿El robot está de vuelta?** | 🔴 | [Spoiler #13](https://github.com/ztevenx100/eventos-js-ts/tree/master/js-adventjs-2024/reto-13/main.js) |
-| Reto #14: | **???** | 🟡 | [Spoiler #14]() |
+| Reto #14: | **Reto #14: 🦌 Acomodando los renos** | 🟢 | [Spoiler #14](https://github.com/ztevenx100/eventos-js-ts/tree/master/js-adventjs-2024/reto-14/main.js) |
 | Reto #15: | **???** | 🟡 | [Spoiler #15]() |
 | Reto #16: | **???** | 🟢 | [Spoiler #16]() |
 | Reto #17: | **???** | 🟢 | [Spoiler #17]() |
