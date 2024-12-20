@@ -9,7 +9,7 @@ Desafios en JavaScript
 
 
 ## Tabla de ejercicios
-| Dia     | Nombre | Dificultad | Ejercicio en codigo |
+| Dia     | Nombre | Dificultad | Ejercicio en codigo JS |
 | ---     | ---    | ---  | ---  |
 | Reto #01: | **Reto #1: ¡Primer regalo repetido!** | 🟢 | [Spoiler #01](https://github.com/ztevenx100/eventos-js-ts/tree/master/js-adventjs-2024/reto-01/main.js) |
 | Reto #02: | **Reto #2: 🖼️ Enmarcando nombres** | 🟢 | [Spoiler #02](https://github.com/ztevenx100/eventos-js-ts/tree/master/js-adventjs-2024/reto-02/main.js) |
