@@ -29,7 +29,7 @@ Desafios en JavaScript
 | Reto #16: | **Reto #16: ❄️ Limpiando la nieve del camino** | 🟢 | [Spoiler #16](https://github.com/ztevenx100/eventos-js-ts/tree/master/js-adventjs-2024/reto-16/main.js) |
 | Reto #17: | **Reto #17: 💣 Busca las bombas del Grinch** | 🟡 | [Spoiler #17](https://github.com/ztevenx100/eventos-js-ts/tree/master/js-adventjs-2024/reto-17/main.js) |
 | Reto #18: | **Reto #18: 📇 La agenda mágica de Santa** | 🔴 | [Spoiler #18](https://github.com/ztevenx100/eventos-js-ts/tree/master/js-adventjs-2024/reto-18/main.js) |
-| Reto #19: | **???** | 🟡 | [Spoiler #19]() |
+| Reto #19: | **Reto #19: 📦 Apila cajas mágicas para repartir regalos** | 🟡 | [Spoiler #19](https://github.com/ztevenx100/eventos-js-ts/tree/master/js-adventjs-2024/reto-19/main.js) |
 | Reto #20: | **???** | 🔴 | [Spoiler #20]() |
 | Reto #21: | **???** | 🟡 | [Spoiler #21]() |
 | Reto #22: | **???** | 🟢 | [Spoiler #22]() |
