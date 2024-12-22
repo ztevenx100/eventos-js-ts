@@ -1,6 +1,6 @@
 /* Reto #19: 📦 Apila cajas mágicas para repartir regalos */
 /** 
- *¡Se acerca el día para repartir regalos! Necesitamos apilar los regalos que transportaremos en el trineo 🛷 y para eso los vamos a meter en cajas 📦.
+ * ¡Se acerca el día para repartir regalos! Necesitamos apilar los regalos que transportaremos en el trineo 🛷 y para eso los vamos a meter en cajas 📦.
  * Los regalos se pueden meter en 4 cajas distintas, donde cada caja soporta 1, 2, 5, 10 de peso y se representan así:
     _
 1: |_|
@@ -22,7 +22,7 @@ const boxRepresentations = {
  * Tu misión es que al recibir el peso de los regalos, uses las mínimas cajas posibles y que, además, las apiles de menos peso (arriba) a más peso (abajo). Siempre alineadas a la izquierda.
  * Además, ten en cuenta que al apilarlas, se reusa el borde inferior de la caja.
  * Nota: ¡Ten cuidado con los espacios en blanco! No añadas espacios en blanco a la derecha de una caja si no son necesarios.
- */
+*/
 
 /**
  * @param {number} weight - Total weight of the gifts
@@ -96,44 +96,44 @@ function distributeWeight(weight) {
  * @returns {string} - Stacked boxes represented as ASCII art
  */
 function distributeWeight(weight) {
-    const boxes = {
-      1: Math.floor(((weight % 10) % 5) % 2),
-      2: Math.floor(((weight % 10) % 5) / 2),
-      5: Math.floor((weight % 10) / 5),
-      10: Math.floor(weight / 10),
-    };
-    const boxRepresentations = {
-      1: [" _ ", "|_|"],
-      2: [" ___ ", "|___|"],
-      5: [" _____ ", "|     |", "|_____|"],
-      10: [" _________ ", "|         |", "|_________|"],
-    };
-  
-    const result = [];
-  
-    for (const [w, q] of Object.entries(boxes)) {
-      if (q === 0) {
-        continue;
-      }
-      
-      const boxRepTop = boxRepresentations[w].at(0);
-      const singleBoxBody = boxRepresentations[w].slice(1);
-      const boxBody = new Array(q).fill(singleBoxBody).flat();
-      
-      if (result.length === 0) {
-        result.push(boxRepTop);
-      } else if (q > 0) {
-        const prev = result.pop();
-        const boxTop = prev + boxRepTop.substring(prev.length);
-        result.push(boxTop.trim());
-      }
-  
-      result.push(...boxBody);
+  const boxes = {
+    1: Math.floor(((weight % 10) % 5) % 2),
+    2: Math.floor(((weight % 10) % 5) / 2),
+    5: Math.floor((weight % 10) / 5),
+    10: Math.floor(weight / 10),
+  };
+  const boxRepresentations = {
+    1: [" _ ", "|_|"],
+    2: [" ___ ", "|___|"],
+    5: [" _____ ", "|     |", "|_____|"],
+    10: [" _________ ", "|         |", "|_________|"],
+  };
+
+  const result = [];
+
+  for (const [w, q] of Object.entries(boxes)) {
+    if (q === 0) {
+      continue;
     }
-  
-    // Code here
-    return result.join("\n");
+    
+    const boxRepTop = boxRepresentations[w].at(0);
+    const singleBoxBody = boxRepresentations[w].slice(1);
+    const boxBody = new Array(q).fill(singleBoxBody).flat();
+    
+    if (result.length === 0) {
+      result.push(boxRepTop);
+    } else if (q > 0) {
+      const prev = result.pop();
+      const boxTop = prev + boxRepTop.substring(prev.length);
+      result.push(boxTop.trim());
+    }
+
+    result.push(...boxBody);
   }
+
+  // Code here
+  return result.join("\n");
+}
 
   /**
  * @param {number} weight - Total weight of the gifts
