@@ -32,7 +32,7 @@ Desafios en JavaScript
 | Reto #19: | **Reto #19: 📦 Apila cajas mágicas para repartir regalos** | 🔴 | [Spoiler #19](https://github.com/ztevenx100/eventos-js-ts/tree/master/js-adventjs-2024/reto-19/main.js) |
 | Reto #20: | **Reto #20: 🎁 Encuentra los regalos faltantes y duplicados** | 🟢 | [Spoiler #20](https://github.com/ztevenx100/eventos-js-ts/tree/master/js-adventjs-2024/reto-20/main.js) |
 | Reto #21: | **Reto #21: 🎄 Calcula la altura del árbol de Navidad** | 🟢 | [Spoiler #21](https://github.com/ztevenx100/eventos-js-ts/tree/master/js-adventjs-2024/reto-21/main.js) |
-| Reto #22: | **???** | 🟡 | [Spoiler #22]() |
+| Reto #22: | **Reto #22: 🎁 Genera combinaciones de regalos** | 🟡 | [Spoiler #22](https://github.com/ztevenx100/eventos-js-ts/tree/master/js-adventjs-2024/reto-22/main.js) |
 | Reto #23: | **???** | 🟢 | [Spoiler #23]() |
 | Reto #24: | **???** | 🟡 | [Spoiler #24]() |
 | Reto #25: | **???** | 🟡 | [Spoiler #25]() |
