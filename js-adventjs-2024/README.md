@@ -35,4 +35,4 @@ Desafios en JavaScript
 | Reto #22: | **Reto #22: 🎁 Genera combinaciones de regalos** | 🟡 | [Spoiler #22](https://github.com/ztevenx100/eventos-js-ts/tree/master/js-adventjs-2024/reto-22/main.js) |
 | Reto #23: | **Reto #23: 🔢 Encuentra los números perdidos** | 🟢 | [Spoiler #23](https://github.com/ztevenx100/eventos-js-ts/tree/master/js-adventjs-2024/reto-23/main.js) |
 | Reto #24: | **Reto #24: 🪞 Verifica si los árboles son espejos mágicos** | 🟡 | [Spoiler #24](https://github.com/ztevenx100/eventos-js-ts/tree/master/js-adventjs-2024/reto-24/main.js) |
-| Reto #25: | **???** | 🟡 | [Spoiler #25]() |
+| Reto #25: | **Reto #25: 🪄 Ejecuta el lenguaje mágico** | 🟡 | [Spoiler #25](https://github.com/ztevenx100/eventos-js-ts/tree/master/js-adventjs-2024/reto-25/main.js) |

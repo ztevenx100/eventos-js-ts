@@ -103,10 +103,10 @@ function generateGiftSets(gifts) {
       const i = inds[g?.at(-1)]
   
       const nG = gifts.slice(i + 1)
-      for (const pg of nG) {
-        l.push([...g, pg])
-        q.push([...g, pg])
-      }
+      nG.map(pg => {
+        l.push([...g, pg]);
+        q.push([...g, pg]);
+      });
     }
   
     return l
