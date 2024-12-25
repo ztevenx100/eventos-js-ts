@@ -34,5 +34,5 @@ Desafios en JavaScript
 | Reto #21: | **Reto #21: 🎄 Calcula la altura del árbol de Navidad** | 🟢 | [Spoiler #21](https://github.com/ztevenx100/eventos-js-ts/tree/master/js-adventjs-2024/reto-21/main.js) |
 | Reto #22: | **Reto #22: 🎁 Genera combinaciones de regalos** | 🟡 | [Spoiler #22](https://github.com/ztevenx100/eventos-js-ts/tree/master/js-adventjs-2024/reto-22/main.js) |
 | Reto #23: | **Reto #23: 🔢 Encuentra los números perdidos** | 🟢 | [Spoiler #23](https://github.com/ztevenx100/eventos-js-ts/tree/master/js-adventjs-2024/reto-23/main.js) |
-| Reto #24: | **???** | 🟡 | [Spoiler #24]() |
+| Reto #24: | **Reto #24: 🪞 Verifica si los árboles son espejos mágicos** | 🟡 | [Spoiler #24](https://github.com/ztevenx100/eventos-js-ts/tree/master/js-adventjs-2024/reto-24/main.js) |
 | Reto #25: | **???** | 🟡 | [Spoiler #25]() |
