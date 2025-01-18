@@ -4,5 +4,7 @@
     - AdventJs 2024: https://github.com/ztevenx100/eventos-js-ts/tree/master/js-adventjs-2024
 ![image](https://github.com/user-attachments/assets/f928362b-1901-49a2-aff4-ec6fea2cfaba)
 
-    - Helloween dev 2024:
+    - Helloween dev 2024: https://www.halloween.dev/es
+![image](https://github.com/user-attachments/assets/0f98fbec-6944-4e95-a274-ff8d99c04b97)
+
     - repositorio: https://github.com/ztevenx100/js-2024-halloween-dev
