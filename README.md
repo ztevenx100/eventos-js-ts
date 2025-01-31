@@ -1,6 +1,6 @@
 # Eventos en JavaScript y TypeScript
 
-Repositorio donde se guardan códigos realizados para los eventos en que se utilice lenguaje Javascript y Typescript.
+Repositorio donde se guardan códigos realizados para los eventos en que se utilice lenguaje JavaScript y TypeScript.
 
 ## Eventos
 - AdventJs 2023: https://github.com/ztevenx100/2023-AdventJs
