@@ -11,4 +11,7 @@ Repositorio donde se guardan códigos realizados para los eventos en que se util
 ![image](https://github.com/user-attachments/assets/0f98fbec-6944-4e95-a274-ff8d99c04b97)
 
    - Pagina web: https://www.halloween.dev/es 
-- Mars Codes 2025: https://mars.codes/game
+- Mars Codes 2025: https://github.com/ztevenx100/eventos-js-ts/tree/master/js-marscodes-2024
+![image](https://github.com/user-attachments/assets/9fd76201-c0f8-4e44-94ec-1cdf5bf58d1c)
+
+   - Pagina web: https://mars.codes/game
