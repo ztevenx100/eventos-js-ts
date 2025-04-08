@@ -1,4 +1,4 @@
-# Eventos en JavaScript y TypeScript
+# Eventos con uso de JavaScript y TypeScript
 
 Repositorio donde se guardan códigos realizados para los eventos en que se utilice lenguaje JavaScript y TypeScript.
 
