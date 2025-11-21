@@ -1,7 +1,7 @@
 /**
  * Implementa el algoritmo de Búsqueda Binaria de forma iterativa 
  * para encontrar un número de teléfono objetivo en un array ordenado.
- * * @param {number[]} phones - Array de números de teléfono ORDENADOS de menor a mayor.
+ * @param {number[]} phones - Array de números de teléfono ORDENADOS de menor a mayor.
  * @param {number} target - El número de teléfono objetivo a encontrar.
  * @returns {number} El índice del número objetivo, o -1 si no se encuentra.
  */
