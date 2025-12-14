@@ -5,8 +5,8 @@ Repositorio donde se guardan códigos realizados para los eventos en que se util
 ## Eventos
 - AdventJs 2023: https://github.com/ztevenx100/2023-AdventJs
 ![image](https://github.com/user-attachments/assets/469f3077-d4ca-4b88-aadd-fec6fd344649)
-
    - Pagina web: https://2023.adventjs.dev/es
+
 - AdventJs 2024: https://github.com/ztevenx100/eventos-js-ts/tree/master/js-adventjs-2024
 ![image](https://github.com/user-attachments/assets/f928362b-1901-49a2-aff4-ec6fea2cfaba)
 
@@ -22,3 +22,7 @@ Repositorio donde se guardan códigos realizados para los eventos en que se util
 - Helloween dev 2025: https://github.com/ztevenx100/js-2024-halloween-dev
 <img width="1645" height="927" alt="image" src="https://github.com/user-attachments/assets/5d139124-c74d-448f-9a24-a17da43e3bca" />
    - Pagina web: https://www.halloween.dev/es
+
+- AdventJs 2025: https://github.com/ztevenx100/eventos-js-ts/tree/master/js-adventjs-2025
+![image](https://github.com/user-attachments/assets/f928362b-1901-49a2-aff4-ec6fea2cfaba)
+   - Pagina web: https://adventjs.dev/es
