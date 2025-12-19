@@ -1,0 +1,86 @@
+// El panel de luces navideñas 🎄✨ del taller ha sido un éxito total. Pero los elfos quieren ir un paso más allá: ahora quieren detectar si hay una línea de 4 luces del mismo color también en diagonal.
+
+// El panel sigue siendo una matriz donde cada celda puede ser:
+
+// '.' → luz apagada
+// 'R' → luz roja
+// 'G' → luz verde
+// Ahora tu función debe devolver true si existe una línea de 4 luces del mismo color encendidas y alineadas, ya sea horizontal ↔, vertical ↕ o diagonal ↘↙.
+
+hasFourInARow([
+  ['R', '.', '.', '.'],
+  ['.', 'R', '.', '.'],
+  ['.', '.', 'R', '.'],
+  ['.', '.', '.', 'R']
+])
+// true → hay 4 luces rojas en diagonal ↘
+
+hasFourInARow([
+  ['.', '.', '.', 'G'],
+  ['.', '.', 'G', '.'],
+  ['.', 'G', '.', '.'],
+  ['G', '.', '.', '.']
+])
+// true → hay 4 luces verdes en diagonal ↙
+
+hasFourInARow([
+  ['R', 'R', 'R', 'R'],
+  ['G', 'G', '.', '.'],
+  ['.', '.', '.', '.'],
+  ['.', '.', '.', '.']
+])
+// true → hay 4 luces rojas en horizontal
+
+hasFourInARow([
+  ['R', 'G', 'R'],
+  ['G', 'R', 'G'],
+  ['G', 'R', 'G']
+])
+// false → no hay 4 luces del mismo color seguidas
+// Nota: El tablero puede ser de cualquier tamaño.
+
+/**
+ * @param {string[][]} board
+ * @returns {boolean}
+ */
+function hasFourInARow(board) {
+  const rows = board.length;
+  const cols = board[0].length;
+
+  const directions = [
+    [0, 1],   // horizontal →
+    [1, 0],   // vertical ↓
+    [1, 1],   // diagonal ↘
+    [1, -1]   // diagonal ↙
+  ];
+
+  for (let r = 0; r < rows; r++) {
+    for (let c = 0; c < cols; c++) {
+      const color = board[r][c];
+      if (color === '.') continue;
+
+      for (const [dr, dc] of directions) {
+        let count = 1;
+
+        for (let i = 1; i < 4; i++) {
+          const nr = r + dr * i;
+          const nc = c + dc * i;
+
+          if (
+            nr < 0 || nr >= rows ||
+            nc < 0 || nc >= cols ||
+            board[nr][nc] !== color
+          ) {
+            break;
+          }
+
+          count++;
+        }
+
+        if (count === 4) return true;
+      }
+    }
+  }
+
+  return false;
+}
