@@ -1,3 +1,4 @@
+// Reto #14: 🗃️ Encuentra el camino al regalo
 // En el Polo Norte, los elfos han simplificado su sistema de almacenamiento para evitar errores.
 // Ahora guardan los regalos en un objeto mágico con profundidad limitada, donde cada valor aparece una sola vez.
 // Santa necesita una forma rápida de saber qué camino de claves debe seguir para encontrar un regalo concreto.

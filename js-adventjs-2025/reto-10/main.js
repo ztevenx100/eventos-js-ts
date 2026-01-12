@@ -1,3 +1,4 @@
+// Reto #10: 📨 Profundidad de la magia navideña
 // 🎄 Profundidad de Magia Navideña
 // En el Polo Norte, Santa Claus está revisando las cartas mágicas 📩✨ que recibe de los niños de todo el mundo. Estas cartas usan un antiguo lenguaje navideño en el que los corchetes [ y ] representan la intensidad del deseo.
 // Cuanto más profunda sea la anidación de los corchetes, más fuerte es el deseo. Tu misión es averiguar la máxima profundidad en la que se anidan los [].

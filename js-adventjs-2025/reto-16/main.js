@@ -1,3 +1,4 @@
+// Reto #16: 🎁 Empaquetando regalos para Santa
 // Santa quiere repartir regalos de la forma más eficiente posible 🎁. Tiene una lista de regalos, cada uno con un peso, y un trineo que solo puede cargar hasta un peso máximo.
 // Los regalos se entregan en orden, y Santa no puede cambiar ese orden. Cuando un regalo no cabe en el trineo actual, Santa envía el trineo y prepara uno nuevo.
 // Tu tarea es escribir una función que calcule el número mínimo de trineos necesarios para entregar todos los regalos.
