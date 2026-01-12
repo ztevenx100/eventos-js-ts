@@ -1,3 +1,4 @@
+// Reto #12: ⚔️ Batalla de elfos
 // Dos elfos están jugando una batalla por turnos. Cada uno tiene un mazo de movimientos que se representan como un string donde cada carácter es una acción.
 // A Ataque normal: causa 1 punto de daño si no es bloqueado
 // B Bloqueo: bloquea un ataque normal (A)

@@ -1,3 +1,4 @@
+// Reto #13: 🏭 La cadena de montaje
 // Simula el recorrido de un regalo dentro de una fábrica y devuelve cómo termina. Para ello debes crear una función runFactory(factory).
 // factory es un string[] donde cada celda puede ser:
 // > < ^ v movimientos
